@@ -50,7 +50,7 @@ Here’s a step-by-step guide on how to fork a repository:
      ```
    - Push your changes back to your forked repository on GitHub:
      ```bash
-     git push origin main
+     git push 
      ```
 
 ##### 6. **Creating a Pull Request**
@@ -65,6 +65,5 @@ Here’s a step-by-step guide on how to fork a repository:
 - **Cloning** allows you to work on the code locally on your computer.
 - **Pull requests** enable you to suggest changes to the original project.
 
-By following this guide, you should be able to fork the `solid-garbanzo` repository, make changes, and contribute to the project in a way that’s safe and collaborative.
 
 Feel free to reach out if you need any help or have questions!

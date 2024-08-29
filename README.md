@@ -1,7 +1,9 @@
 
-Hello & Welcome to the section repo for Taylor Martin's class.
+# Taylor Martin's MIDS DATASCI 200: Introduction to Data Science Programming Section repo.
 
-### TAs - Tutors
+
+## Hello & Welcome!
+#### TAs - Tutors
 
 **Che Guan**	
 che.guan@berkeley.edu
@@ -22,5 +24,22 @@ OO: TBD
 
 #### TA Grader 
 
-Bora Mutluoglu	
+**Bora Mutluoglu**	
 bmutluoglu@berkeley.edu
+
+
+
+##### Completely Random Cool Stuff
+
+- [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) 
+- a bunch of datasets for data science projects
+
+
+- [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/) 
+- a free learn DS resource
+
+- [Data science Python notebooks] (https://github.com/donnemartin/data-science-ipython-notebooks) 
+- another free learn DS resource, pretty decent walkthroughs of Deep learning, matplotlib, pandas, NumPy, SciPy, Python essentials and others.
+
+- [W3 Schools] (https://www.w3resource.com/python-exercises/)
+- quick exercises on all the things in Python basics - good for daily practice
