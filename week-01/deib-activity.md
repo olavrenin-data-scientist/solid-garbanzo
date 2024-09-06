@@ -2,7 +2,6 @@ Creating a classroom environment that embodies the principles of diversity, equi
 
 ### Actions for Students
 
-
-
+respect for our fellow class mates and instructors
 
 ### Actions for Instructors
