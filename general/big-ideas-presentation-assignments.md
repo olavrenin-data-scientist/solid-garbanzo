@@ -4,7 +4,7 @@
 
 - Week 4: Karim Mattar, Joshua Pearce
 
-- Week 5: Carlos Santander Espinoza, Vaishnavi Vasudeva
+- Week 5: Carlos Santander Espinoza, Vaishnavi Vasudeva, Ender Ricart
 
 - Week 6: Georgios Friligkos
 
@@ -14,7 +14,7 @@
 
 - Week 9: William Kueshner
 
-- Week 10: Karim Mattar
+- Week 10: Karim Mattar, Ender Ricart
 
 - Week 11: Joshua Pearce
 
