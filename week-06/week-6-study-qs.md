@@ -1,4 +1,4 @@
-To test for understanding of these key points on execution time and Big O Notation, you could ask the following questions:
+### Study questions:
 
 1. **Importance of Execution Time:**
    - Why is it important to consider execution time when working with large datasets?
@@ -19,5 +19,3 @@ To test for understanding of these key points on execution time and Big O Notati
 5. **Example of Exponential Growth:**
    - What happens to the execution time of an algorithm when it exhibits exponential growth as the input size increases?
    - Why would an algorithm with exponential growth be impractical for large datasets?
-
-These questions focus on both conceptual understanding and practical application.
